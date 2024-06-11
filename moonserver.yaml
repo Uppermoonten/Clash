@@ -1,0 +1,47 @@
+proxies:
+
+  - {name: 🇯🇵 节点日期：06-11, server: 116.47.10.236, port: 27335, type: trojan, password: moist, sni: trojan.freenods.sbs, network: ws, ws-opts: {path: /, headers: {Host: trojan.freenods.sbs}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】110, server: 104.19.52.197, port: 2083, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】66, server: 104.19.53.247, port: 2083, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】195, server: 104.19.52.175, port: 443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】60, server: 104.19.52.67, port: 2096, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】109, server: 104.19.52.97, port: 443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】48, server: 104.19.52.187, port: 2087, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】134, server: 104.19.53.132, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】46, server: 104.19.52.2, port: 2053, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】55, server: 104.19.52.229, port: 2096, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】140, server: 104.19.53.74, port: 2053, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Ho7692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】159, server: 104.19.52.13, port: 443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】107, server: 104.19.53.246, port: 2096, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】84, server: 104.19.53.95, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】78, server: 104.19.52.251, port: 2083, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】58, server: 104.19.52.219, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】104, server: 104.19.53.53, port: 2083, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 瑞典【付费推荐：https://a0a.xyz/】14, server: 185.146.173.29, port: 443, type: trojan, password: f91f38bb-72d5-4f3e-8311-1788986293f5, sni: iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir}
+
+  - {name: 🇬🇧 英国【付费推荐：https://a0a.xyz/】156, server: 212.102.53.78, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】97, server: 104.19.52.199, port: 2087, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
+
+  - {name: 🇨🇳 中国【付费推荐：https://a0a.xyz/】29, server: yes.cnmjcn.net, port: 16632, type: vmess, uuid: 2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com}}}
+
+  - {name: 🇷🇺 俄罗斯联邦【付费推荐：https://a0a.xyz/】143, server: 77.221.137.197, port: 25067, type: ss, cipher: chacha20-ietf-poly1305, password: MoxMpgM3MLhBw0DBDvPAnB}
+
+  - {name: 🇺🇲 美国【付费推荐：https://a0a.xyz/】36, server: 104.19.53.181, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, network: ws, ws-opts: {path: /, headers: {Host: tjjd.yzyx1.v6.army}}}
